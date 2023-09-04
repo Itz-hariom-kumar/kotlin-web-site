@@ -1,5 +1,5 @@
 [//]: # (title: Basic types)
-
+ #keep in mind focus here 
 <microformat>
     <p><img src="icon-1-done.svg" width="20" alt="First step" /> <a href="kotlin-tour-hello-world.md">Hello world</a><br />
         <img src="icon-2.svg" width="20" alt="Second step" /> <strong>Basic types</strong><br />
